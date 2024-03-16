@@ -56,9 +56,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Ronskie0804">
-                    <img src="https://avatars.githubusercontent.com/u/140984233?v=4" width="100px;" alt="Ronskie0804"/>
+                    <img src="https://avatars.githubusercontent.com/u/140984233?v=4" width="100px;" alt="Ronskie"/>
                     <br />
-                    <sub><b>Ronskie0804</b></sub>
+                    <sub><b>Ronskie</b></sub>
                 </a>
             </td>
             <td align="center">
